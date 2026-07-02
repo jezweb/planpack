@@ -1,0 +1,130 @@
+[
+  {
+    "quantity": "gross_floor_area_living",
+    "value": 123, "unit": "m2",
+    "derivation": "printed NOTES block, sheet 2/10 ('GFL LIVING 123 m2'). Convention per same note: GFA excludes decks, terraces, courtyards, verandahs, voids, stairs & balconies @ UFL",
+    "sanity_check": "consistent with setout envelope 19.075 x 9.875 m minus carport, courts and eave offsets",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "gross_floor_area_carport",
+    "value": 23, "unit": "m2",
+    "derivation": "printed NOTES block, sheet 2/10 ('CARPORT 23 m2')",
+    "sanity_check": "carport drawn ~6.0 x 3.9 m on 2/10 at 1:100 ≈ 23 m2",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "gross_floor_area_total",
+    "value": 146, "unit": "m2",
+    "derivation": "printed NOTES block, sheet 2/10 ('TOTAL GFA 146 m2 (including carport)')",
+    "sanity_check": "123 + 23 = 146 — internally consistent",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "site_area",
+    "value": 375, "unit": "m2",
+    "derivation": "30.000 m x 12.500 m block dimensions printed on sheet 1/10 → 375 m2. Boundary convention: to boundary lines as drawn. NOTE: block layout and setbacks are printed 'INDICATIVELY ONLY'",
+    "sanity_check": "drawn block rectangle measured from the PDF vector layer at 1:200 = 29.997 x 12.497 m (deterministic script read) — matches within drawing precision",
+    "confidence": "derived"
+  },
+  {
+    "quantity": "building_setout_length",
+    "value": 19075, "unit": "mm",
+    "derivation": "overall setout chain, sheet 9/10. Segments 1000+900+5175+960+2000+1980+2000+910+4150 = 19075 — chain closes exactly. Convention: setout extents as chained on 9/10 (includes portico/eave offsets), not a wall-face length",
+    "sanity_check": "segment sum equals printed overall",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "building_setout_width",
+    "value": 9875, "unit": "mm",
+    "derivation": "overall setout chain, sheet 9/10. West-side segments 150+2300+200+1100+1200+1275+3400+250 = 9875 and east-side segments 2670+900+1345+900+510+900+2650 = 9875 — both chains close exactly",
+    "sanity_check": "two independent chains agree",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "external_opening_units",
+    "value": 15, "unit": "no.",
+    "derivation": "Window and Door Schedule 10/10: W1/D1 entry assembly, W2-W7 windows (6), D2 glazed door, SD1-SD7 sliding doors (7). All 15 schedule units located on floor plan 2/10 — every schedule entry has exactly one placed instance",
+    "sanity_check": "floor plan sweep found no unmarked external openings and no schedule unit without a plan position",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "sliding_door_units_2300",
+    "value": 4, "unit": "no.",
+    "derivation": "schedule 10/10: SD1, SD2 (mirrored), SD5, SD6 (mirrored) — 2300 x 2440 two-panel units",
+    "sanity_check": "each tag found once on floor plan 2/10",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "sliding_door_units_2000",
+    "value": 3, "unit": "no.",
+    "derivation": "schedule 10/10: SD3, SD4 (mirrored), SD7 (mirrored) — 2000 x 2440 two-panel units. Matches the two 2000 segments in the 9/10 east setout chain (SD3, SD4 positions)",
+    "sanity_check": "each tag found once on floor plan 2/10",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "window_units",
+    "value": 6, "unit": "no.",
+    "derivation": "schedule 10/10: W2, W3, W5 (900 x 2440 AW-over-FG), W4 (900 x 1440 AW), W6 (2300 x 700, 2 CW + fixed), W7 (500 x 900 AW). W1 is counted inside the W1/D1 entry assembly, not here",
+    "sanity_check": "each tag found once on floor plan 2/10; W3/W4/W5 also confirmed on south elevation 6/10, W2 on east 4/10",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "external_hinged_door_units",
+    "value": 2, "unit": "no.",
+    "derivation": "D1 (1200 leaf within W1/D1 entry assembly, leaf by builder) + D2 (950 x 2430 glazed, laundry to winter court), schedule 10/10",
+    "sanity_check": "no other external hinged doors found on plan sweep",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "glazed_external_unit_area_total",
+    "value": 54.95, "unit": "m2",
+    "derivation": "sum of schedule unit frame dimensions (10/10): W1/D1 2.3x2.44=5.61 + 4 x SD2300 2.3x2.44=22.45 + 3 x SD2000 2.0x2.44=14.64 + 3 x (W2/W3/W5) 0.9x2.44=6.59 + W4 0.9x1.44=1.30 + W6 2.3x0.7=1.61 + W7 0.5x0.9=0.45 + D2 0.95x2.43=2.31. Convention: overall frame dims, NOT glass area. Schedule notes dims are nominal — check measure prior to ordering",
+    "sanity_check": "≈45% of living GFA — high but consistent with a fully glazed court-facing design",
+    "confidence": "derived"
+  },
+  {
+    "quantity": "ceiling_fans",
+    "value": 5, "unit": "no.",
+    "derivation": "'FAN' annotations on setout plan 9/10: living, kitchen, meals, bedroom 1, bedroom 2. Visual count on render — this set's annotation text is outlined vector, so deterministic tag counting is not possible; treat as approximate",
+    "sanity_check": "one per major habitable room; no fans drawn on floor plan 2/10 (setout only)",
+    "confidence": "derived"
+  },
+  {
+    "quantity": "sanitary_fixtures",
+    "value": {"wc": 2, "basin": 2, "shower": 1, "bath": 0, "kitchen_sink_double": 1, "laundry_trough": 1},
+    "unit": "no.",
+    "derivation": "drawn fixtures on floor plan 2/10 renders: powder (WC + basin), bathroom (WC + vanity basin + shower), kitchen island (double sink), laundry (trough). Visual identification — no hydraulic schedule exists in this set",
+    "sanity_check": "matches room key and setout clearance annotations (450/450 MIN, 1200 MIN in powder)",
+    "confidence": "derived"
+  },
+  {
+    "quantity": "finished_ceiling_levels",
+    "value": {"habitable_rooms_mm": 2700, "carport_mm": 2550},
+    "unit": "mm",
+    "derivation": "FCL boxes on floor plan 2/10 (FCL 2700 in entry, living, powder, laundry, kitchen, meals, bed 1, bathroom, bed 2; FCL 2550 in carport)",
+    "sanity_check": "section 8/10 datum shows 2700; elevations show 150 step between entry GFL and carport",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "entry_ramps",
+    "value": 2, "unit": "no.",
+    "derivation": "two '1:14 RAMP' runs, setout plan 9/10, street to entry portico; grades to NCC per 2/10 note",
+    "sanity_check": "ramp runs drawn on both 2/10 and 9/10",
+    "confidence": "stated"
+  },
+  {
+    "quantity": "roof_area",
+    "value": null, "unit": "m2",
+    "derivation": "NOT DERIVABLE to quote precision from this set: the roof plan (3/10) prints no dimensions, eave extents are only partially chained on 9/10, and the two court openings are undimensioned. Roof plan note: sizes shown are notional only; builder to confirm design with BCA before works. A scaled measurement could be produced on request but would carry 'scaled' confidence only",
+    "sanity_check": null,
+    "confidence": "not-derivable"
+  },
+  {
+    "quantity": "roof_fall",
+    "value": 3, "unit": "degrees",
+    "derivation": "printed on roof plan 3/10 ('3 DEGREE FALL', metal sheet roofing to code); skillion high at west party wall falling east — consistent across elevations 4-7/10 and section 8/10",
+    "sanity_check": "elevation rooflines agree with fall direction",
+    "confidence": "stated"
+  }
+]

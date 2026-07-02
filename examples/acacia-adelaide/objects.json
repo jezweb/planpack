@@ -1,0 +1,310 @@
+[
+  {
+    "type": "entry-assembly", "family": "opening", "mark": "W1/D1",
+    "attributes": {"overall_w_mm": 2300, "overall_h_mm": 2440, "sidelite": "FG (fixed glass) 1100 wide", "door_leaf": "1200 wide, 'DOOR LEAF BY BUILDER'", "sill": "recess bottom sill nom. 40mm typical", "location": "entry (room 2), north wall", "note": "refer to NCC requirements re door threshold heights and transitions - shown notionally on this schedule only"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "5/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, elevational unit W1 / D1"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "window", "family": "opening", "mark": "W2",
+    "attributes": {"w_mm": 900, "h_mm": 2440, "operation": "AW awning sash over FG fixed panel (lower panel 960 high)", "sill": "recess bottom sill nom. 40mm typical", "location": "living (room 3), east wall"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "4/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit W2/W3/W5"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "window", "family": "opening", "mark": "W3",
+    "attributes": {"w_mm": 900, "h_mm": 2440, "operation": "AW awning sash over FG fixed panel (lower panel 960 high)", "sill": "recess bottom sill nom. 40mm typical", "location": "bedroom 1 (room 8), south wall"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "6/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit W2/W3/W5"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "window", "family": "opening", "mark": "W4",
+    "attributes": {"w_mm": 900, "h_mm": 1440, "operation": "AW awning sash", "sill_height_mm": 960, "location": "bathroom (room 9), south wall"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "6/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit W4"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "window", "family": "opening", "mark": "W5",
+    "attributes": {"w_mm": 900, "h_mm": 2440, "operation": "AW awning sash over FG fixed panel (lower panel 960 high)", "sill": "recess bottom sill nom. 40mm typical", "location": "bedroom 2 (room 10), south wall"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "6/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit W2/W3/W5"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "window", "family": "opening", "mark": "W6",
+    "attributes": {"w_mm": 2300, "h_mm": 700, "operation": "2 x CW casement sash + fixed panel", "sill_height_mm": 950, "location": "kitchen (room 6), above bench, to winter court"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit W6"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "window", "family": "opening", "mark": "W7",
+    "attributes": {"w_mm": 500, "h_mm": 900, "operation": "AW awning sash", "sill_height_mm": 1200, "location": "powder room (room 4), to winter court"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit W7"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "door", "family": "opening", "mark": "D2",
+    "attributes": {"w_mm": 950, "h_mm": 2430, "operation": "hinged glazed door, FG", "sill": "recess bottom sill nom. 40mm typical", "location": "laundry (room 5) to winter court"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit D2"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD1",
+    "attributes": {"w_mm": 2300, "h_mm": 2440, "operation": "SD sliding door, 2 panel", "sill": "recess bottom sill nom. 40mm typical", "location": "living (room 3), north wall (street side)"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "5/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD1/SD2/SD5/SD6"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD2",
+    "attributes": {"w_mm": 2300, "h_mm": 2440, "operation": "SD sliding door, 2 panel, mirrored", "sill": "recess bottom sill nom. 40mm typical", "location": "living (room 3) to deck / living court"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD1/SD2/SD5/SD6"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD3",
+    "attributes": {"w_mm": 2000, "h_mm": 2440, "operation": "SD sliding door, 2 panel", "sill": "recess bottom sill nom. 40mm typical", "location": "kitchen (room 6) to living court", "head_treatment": "pelmet typ."},
+    "qty_unit": 1, "sheet_refs": ["2/10", "4/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD3/SD4/SD7"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD4",
+    "attributes": {"w_mm": 2000, "h_mm": 2440, "operation": "SD sliding door, 2 panel, mirrored", "sill": "recess bottom sill nom. 40mm typical", "location": "meals (room 7) to living court", "head_treatment": "pelmet typ."},
+    "qty_unit": 1, "sheet_refs": ["2/10", "4/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD3/SD4/SD7"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD5",
+    "attributes": {"w_mm": 2300, "h_mm": 2440, "operation": "SD sliding door, 2 panel", "sill": "recess bottom sill nom. 40mm typical", "location": "bedroom 1 (room 8) to living court / deck"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "8/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD1/SD2/SD5/SD6"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD6",
+    "attributes": {"w_mm": 2300, "h_mm": 2440, "operation": "SD sliding door, 2 panel, mirrored", "sill": "recess bottom sill nom. 40mm typical", "location": "bedroom 2 (room 10) to winter court"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "8/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD1/SD2/SD5/SD6"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "sliding-door", "family": "opening", "mark": "SD7",
+    "attributes": {"w_mm": 2000, "h_mm": 2440, "operation": "SD sliding door, 2 panel, mirrored", "sill": "recess bottom sill nom. 40mm typical", "location": "meals (room 7) to winter court"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "Window and Door Schedule, unit SD3/SD4/SD7"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "1",
+    "attributes": {"name": "entry portico", "surface": "deck boards (drawn)", "access": "1:14 ramp x 2 runs from street"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key items 1-15"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "2",
+    "attributes": {"name": "entry", "fcl_mm": 2700, "joinery": "CO coat cupboard, ST storage cupboard"},
+    "qty_unit": 1, "sheet_refs": ["2/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + FCL tags"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "3",
+    "attributes": {"name": "living", "fcl_mm": 2700, "floor_finish": "burnished concrete ('BURN' CONC.')", "nominal_w_mm": 6775, "nominal_d_mm": 3325, "ceiling_fan": true, "openings": ["SD1", "SD2", "W2"], "dimension_note": "internal room dimensions are nominal only (sheet 2/10 note)"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + setout plan 9/10 chains"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "4",
+    "attributes": {"name": "powder room", "fcl_mm": 2700, "fixtures": ["WC", "wall basin"], "clearances": "450/450 MIN beside WC, 1200 MIN circulation (setout 9/10)", "openings": ["W7"], "floor_finish": "tiles (drawn hatch)"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + setout plan clearances"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "5",
+    "attributes": {"name": "laundry", "fcl_mm": 2700, "fixtures": ["laundry trough", "WM washing machine position", "DR clothes dryer position"], "openings": ["D2"], "floor_finish": "tiles (drawn hatch)"},
+    "qty_unit": 1, "sheet_refs": ["2/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + legend codes"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "6",
+    "attributes": {"name": "kitchen", "fcl_mm": 2700, "floor_finish": "burnished concrete", "joinery": "island bench with double sink + DW dishwasher; wall run with FR fridge, cooktop, PA pantry", "openings": ["W6", "SD3"], "ceiling_fan": true},
+    "qty_unit": 1, "sheet_refs": ["2/10", "8/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + legend codes"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "7",
+    "attributes": {"name": "meals", "fcl_mm": 2700, "floor_finish": "burnished concrete", "ceiling_fan": true, "openings": ["SD4", "SD7"]},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + FCL tags"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "8",
+    "attributes": {"name": "bedroom 1", "fcl_mm": 2700, "floor_finish": "burnished concrete", "nominal_d_mm": 3420, "joinery": "RO robe", "ceiling_fan": true, "openings": ["SD5", "W3"]},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + setout plan chains"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "9",
+    "attributes": {"name": "bathroom", "fcl_mm": 2700, "fixtures": ["shower", "WC", "vanity basin"], "joinery": "LI linen cupboard", "nominal_dims_mm": [2535, 2690], "openings": ["W4"], "floor_finish": "tiles (drawn hatch)", "bathtub": "none drawn"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + setout plan chains"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "10",
+    "attributes": {"name": "bedroom 2", "fcl_mm": 2700, "floor_finish": "burnished concrete", "nominal_d_mm": 3300, "joinery": "RO robe", "ceiling_fan": true, "openings": ["SD6", "W5"]},
+    "qty_unit": 1, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + setout plan chains"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "11",
+    "attributes": {"name": "carport", "fcl_mm": 2550, "capacity": "1 car (drawn)", "area_m2_stated": 23, "level_note": "GFL entry sits 150 above carport level (elevation datum '150 GFL - ENTRY / CARPORT')"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "5/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key + NOTES block (CARPORT 23 m2)"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "12",
+    "attributes": {"name": "living court", "roofed": false, "note": "'OPEN OVER' on floor + roof plans; outdoor dining setting drawn; adjoins DECK (site plan label)", "gfa": "excluded from GFA per sheet 2/10 note", "openings_onto": ["SD2", "SD3", "SD4", "SD5"]},
+    "qty_unit": 1, "sheet_refs": ["1/10", "2/10", "3/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key item 12 'LIVING COURT'"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "space", "family": "room", "mark": "13",
+    "attributes": {"name": "winter court", "roofed": false, "note": "'OPEN OVER'; decked, 3 trees in planters drawn, 2 x 'NOM. SUMP' marks", "gfa": "excluded from GFA per sheet 2/10 note", "openings_onto": ["SD6", "SD7", "W6", "W7", "D2"]},
+    "qty_unit": 1, "sheet_refs": ["1/10", "2/10", "3/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key item 13 'WINTER COURT'"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "water-tank", "family": "service", "mark": "14",
+    "attributes": {"name": "water tank", "location": "east side of dwelling, adjacent bedroom 1, outside external wall (dashed = indicative)", "size": "not stated"},
+    "qty_unit": 1, "sheet_refs": ["1/10", "2/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key item 14 'WATER TANK'"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "services-zone", "family": "service", "mark": "15",
+    "attributes": {"name": "services", "location": "east side of dwelling, adjacent bedroom 2 (two dashed units drawn)", "detail": "equipment not identified on drawings — no equipment schedule in this set"},
+    "qty_unit": 1, "sheet_refs": ["2/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "floor plan key item 15 'SERVICES'"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "ceiling-fan", "family": "electrical", "mark": null,
+    "attributes": {"rooms": ["living", "kitchen", "meals", "bedroom 1", "bedroom 2"], "data_shape": "anonymous 'FAN' circles on setout plan only — no marks, no schedule, no electrical layout in this set", "count_basis": "visual count on render (annotation text is outlined vector; deterministic tag counting not possible on this set) — treat as approximate"},
+    "qty_unit": 5, "sheet_refs": ["9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "9/10", "revision": null, "table_or_quote": "'FAN' annotations on setout plan"},
+    "confidence": "derived", "maturity": "preliminary"
+  },
+  {
+    "type": "skillion-roof", "family": "roof", "mark": null,
+    "attributes": {"covering": "metal sheet roofing to code", "fall": "3 degree fall, high at west (party wall), falling east", "gutters": "eave gutter to code (3 annotations)", "fascia": "fascia beam - refer to sections", "penetrations": "two unroofed court openings ('OPEN' on roof plan) over living court and winter court", "note": "builder to confirm roof design, sheet type, down pipe and gutter size etc complies with BCA prior to commencement of works; sizes shown are notional only; ensure warranties are provided from manufacturer"},
+    "qty_unit": 1, "sheet_refs": ["3/10", "4/10", "5/10", "6/10", "8/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "3/10", "revision": null, "table_or_quote": "roof plan annotations + note box"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "external-cladding", "family": "cladding", "mark": "CFC",
+    "attributes": {"description": "compressed FC sheet on timber frame, expressed joint at edges indicated", "placed_on": "east, north and south elevations (upper bands and wall panels)", "colour": "TBC"},
+    "qty_unit": null, "sheet_refs": ["4/10", "5/10", "6/10", "8/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "4/10", "revision": null, "table_or_quote": "elevation legend + placed tags"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "external-cladding", "family": "cladding", "mark": "BW",
+    "attributes": {"description": "face brick wall, type & colour TBC", "placed_on": "north elevation (carport rear wall) and south elevation (west end); section 8/10 west wall", "west_party_wall_material": "not tagged on elevation 7/10 — unconfirmed"},
+    "qty_unit": null, "sheet_refs": ["5/10", "6/10", "8/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "5/10", "revision": null, "table_or_quote": "elevation legend + placed tags"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "steelwork", "family": "cladding", "mark": "ST",
+    "attributes": {"description": "steel work, colour TBC (posts/frames at glazed walls and court edges)", "placed_on": "east, north and south elevations"},
+    "qty_unit": null, "sheet_refs": ["4/10", "5/10", "6/10", "8/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "4/10", "revision": null, "table_or_quote": "elevation legend + placed tags"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "floor-finish", "family": "finish", "mark": null,
+    "attributes": {"finish": "burnished concrete ('BURN' CONC.')", "rooms": ["living", "kitchen", "meals", "bedroom 1", "bedroom 2"]},
+    "qty_unit": 5, "sheet_refs": ["2/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "room annotations on floor plan"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "floor-finish", "family": "finish", "mark": null,
+    "attributes": {"finish": "tiles (hatch drawn, material not annotated)", "rooms": ["powder room", "laundry", "bathroom"]},
+    "qty_unit": 3, "sheet_refs": ["2/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "tile hatch on floor plan renders (visual)"},
+    "confidence": "derived", "maturity": "preliminary"
+  },
+  {
+    "type": "access-ramp", "family": "site", "mark": null,
+    "attributes": {"grade": "1:14", "runs": 2, "location": "street to entry portico", "note": "entry ramp grades and cover etc to NCC requirements (sheet 2/10 note)"},
+    "qty_unit": 2, "sheet_refs": ["2/10", "9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "9/10", "revision": null, "table_or_quote": "'1:14 RAMP' annotations"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "block", "family": "site", "mark": null,
+    "attributes": {"frontage_mm": 30000, "depth_mm": 12500, "orientation": "long axis north-south along street per title-block north arrow; west boundary carries the party wall", "status": "'BLOCK LAYOUT SHOWN INDICATIVELY ONLY'; 'SETBACK FROM BOUNDARIES SHOWN INDICATIVELY ONLY - REVISE TO SUIT LOCAL REGULATIONS AND BUILDING ENVELOPES ETC'", "vector_check": "drawn block rectangle measures 29997 x 12497 mm at 1:200 from the PDF vector layer (drawing precision) — consistent with 30000 x 12500 stated", "driveway": "driveway to local authority requirements"},
+    "qty_unit": 1, "sheet_refs": ["1/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "1/10", "revision": null, "table_or_quote": "site plan dimensions + notes"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "setout", "family": "site", "mark": null,
+    "attributes": {"overall_length_mm": 19075, "overall_width_mm": 9875, "length_chain": [1000, 900, 5175, 960, 2000, 1980, 2000, 910, 4150], "width_chain": [150, 2300, 200, 1100, 1200, 1275, 3400, 250], "width_chain_alt": [2670, 900, 1345, 900, 510, 900, 2650], "chain_check": "all three chains sum exactly to their stated overall (19075 / 9875 / 9875)", "boundary_convention": "setout extents include eave/portico offsets as chained on 9/10 — not a floor-face measurement"},
+    "qty_unit": 1, "sheet_refs": ["9/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "9/10", "revision": null, "table_or_quote": "setout plan dimension chains"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "level-datum", "family": "site", "mark": null,
+    "attributes": {"fcl_habitable_mm": 2700, "fcl_carport_mm": 2550, "entry_step": "GFL entry 150 above carport/external datum (elevations 4-7/10)"},
+    "qty_unit": 1, "sheet_refs": ["2/10", "4/10", "5/10", "6/10", "7/10", "8/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "8/10", "revision": null, "table_or_quote": "FCL boxes + elevation datum strings"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "note", "family": "compliance", "mark": null,
+    "attributes": {"topic": "NCC/BCA obligations printed on the set", "items": ["refer to NCC for sanitary compartment circulation, wall reinforcement and threshold/hob requirements (2/10)", "door openings, corridor widths and thresholds, entry ramp grades and cover etc to NCC requirements (2/10)", "construction near boundary must comply with NCC requirements - revise to suit local regulations and building envelopes (2/10, 3/10)", "party wall on boundary to NCC requirements (7/10)", "builder to confirm roof design/sheet type/downpipe/gutter size complies with BCA (3/10)", "fabricator to confirm which windows/doors require laminated safety glass and specify accordingly; all glazing to code requirements (10/10)", "ceiling insulation values specified extend to eaves (2/10)"], "standards_note": "clause references cited as printed only — no standard text ingested"},
+    "qty_unit": null, "sheet_refs": ["2/10", "3/10", "7/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "2/10", "revision": null, "table_or_quote": "notes columns"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "note", "family": "compliance", "mark": null,
+    "attributes": {"topic": "dimension reliability", "items": ["GFA calculations do not include decks, terraces, courtyards, verandahs, voids, stairs & balconies @ UFL; internal room dimensions are nominal only (2/10)", "frame section widths dimensioned are notional only - fabricator to confirm frame section size (10/10)", "overall window dimensions nominal only - check measure existing opening on site prior to ordering (10/10)", "refer to specifications document for frame type, and glazing performance values (U-value and SHGC) (10/10)"]},
+    "qty_unit": null, "sheet_refs": ["2/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "10/10", "revision": null, "table_or_quote": "schedule notes column"},
+    "confidence": "stated", "maturity": "preliminary"
+  },
+  {
+    "type": "document-reference", "family": "compliance", "mark": null,
+    "attributes": {"referenced_document": "Acacia House Adelaide 'Design Options' document", "carries": "building specifications and rating information, incl. glazing U-value/SHGC and frame types", "status": "absent-but-exists — referenced on every title block and by schedule notes, not part of this folder", "where": "www.yourhome.gov.au"},
+    "qty_unit": 1, "sheet_refs": ["1/10", "10/10"],
+    "provenance": {"party": "Design For Place (Commonwealth of Australia)", "document": "Acacia House Adelaide technical drawings", "sheet": "1/10", "revision": null, "table_or_quote": "title block PROJECT text"},
+    "confidence": "stated", "maturity": "preliminary"
+  }
+]
