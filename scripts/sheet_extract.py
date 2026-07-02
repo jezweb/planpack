@@ -2,7 +2,7 @@
 """Deterministic sheet extraction: PDF(s) → per-sheet PNG + text + metadata.
 
 Usage:
-  .venv/bin/python .jez/scripts/02_sheet_extract.py <pdf-or-folder> <output-dir> [--dpi 150]
+  .venv/bin/python scripts/sheet_extract.py <pdf-or-folder> <output-dir> [--dpi 150]
 
 For each page of each PDF: renders sheets/<doc>/<page>.png, writes
 sheets/<doc>/<page>.txt (raw text layer), and appends a row to sheets.json
