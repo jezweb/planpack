@@ -50,7 +50,9 @@ for pdf in pdfs:
         r = page.rect
         tb = page.get_text(clip=fitz.Rect(r.width * 0.6, r.height * 0.75, r.width, r.height))
         sheet_no = None
-        m = SHEET_NO.findall(tb)
+        # exclude paper-size tokens (A0-A4) — "1:100 @ A3" is a scale note,
+        # not a sheet number, and it poisons the guess on whole sets
+        m = [x for x in SHEET_NO.findall(tb) if x.upper() not in ("A0", "A1", "A2", "A3", "A4")]
         if m:
             sheet_no = m[-1]
         rows.append({
