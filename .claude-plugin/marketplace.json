@@ -1,0 +1,14 @@
+{
+  "name": "planpack",
+  "owner": {
+    "name": "Jezweb",
+    "email": "jeremy@jezweb.net"
+  },
+  "plugins": [
+    {
+      "name": "planpack",
+      "source": "./",
+      "description": "Construction plans → portable, queryable plan packs with provenance, confidence, and takeoff quantities. Includes the electrical trade lens and client onboarding."
+    }
+  ]
+}

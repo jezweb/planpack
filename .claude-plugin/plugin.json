@@ -1,0 +1,13 @@
+{
+  "name": "planpack",
+  "description": "Turn construction plan sets into portable, queryable plan packs — sheet register, object database with provenance and confidence, takeoff quantities with shown workings, topic wiki. Built for trades: every value cites its sheet, conflicts are flagged never hidden, and an independent verify pass runs on every pack.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jezweb",
+    "email": "jeremy@jezweb.net",
+    "url": "https://www.jezweb.com.au"
+  },
+  "homepage": "https://planpack.au",
+  "license": "MIT",
+  "keywords": ["construction", "plans", "takeoff", "estimating", "trades", "drawings", "quantity-surveying"]
+}
