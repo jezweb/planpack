@@ -35,6 +35,14 @@ For electrical contractors there's a trade lens (`lenses/electrical.md`) coverin
 
 There's also an onboarding skill (`onboard-trade-client`) that turns a business's past jobs + quotes into a calibrated workspace, ending with a trust report: their own past job re-quoted blind, next to what they actually charged.
 
+## Try these
+
+1. **"Build a plan pack from ./plans"** — point it at a folder of drawing PDFs; ~15-20 minutes later the pack folder above exists, verified.
+2. **"What mesh is in the garage slab, and which sheet says so?"** — ask any built pack; answers come with sheet citations.
+3. **"Re-check the pier count and show the working"** — quantities carry their derivation, so the pack can defend every number it gives you.
+
+There's a complete example pack in [`examples/acacia-adelaide/`](examples/acacia-adelaide/) (Acacia House, Design For Place, CC BY 4.0) — open it in Claude and ask it questions before building your own.
+
 ## Principles
 
 - **Assist, not autopilot.** Packs cite everything, show derivations, and flag what the drawings don't support. The person quoting owns the price.

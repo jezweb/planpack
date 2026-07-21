@@ -1,5 +1,6 @@
 {
   "name": "planpack",
+  "description": "Construction plans → portable, queryable plan packs with provenance, confidence, and takeoff quantities.",
   "owner": {
     "name": "Jezweb",
     "email": "jeremy@jezweb.net"
